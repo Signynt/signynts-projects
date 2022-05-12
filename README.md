@@ -5,6 +5,7 @@
 ### Keyboard Stuff
 
 #### Frequency Keyboard
-|     |     |
-| --- | --- |
+
+
 |  ![](attachments/Keyboard%20Photos.jpg)   |     ![](attachments/Keyboard%20Photos%20Vertical.jpg)|
+| --- | --- |
