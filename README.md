@@ -1,2 +1,8 @@
 # signynts-projects
-All my projects in one place!
+
+- [[#Keyboard Stuff]]
+
+### Keyboard Stuff
+
+#### Frequency Keyboard
+![[Keyboard Photos.jpg]]![[Keyboard Photos Vertical.jpg]]
