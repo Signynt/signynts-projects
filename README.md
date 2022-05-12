@@ -1,8 +1,8 @@
 # signynts-projects
 
-- [[#Keyboard Stuff]]
+- [[README#Keyboard Stuff]]
 
 ### Keyboard Stuff
 
 #### Frequency Keyboard
-![[Keyboard Photos.jpg]]![[Keyboard Photos Vertical.jpg]]
+![[attachments/Keyboard Photos.jpg]]![[attachments/Keyboard Photos Vertical.jpg]]
