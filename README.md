@@ -5,7 +5,11 @@
 ### Keyboard Stuff
 
 #### Frequency Keyboard
+A magnetic travel case for the [Nyquist](https://keeb.io/collections/levinson-keyboard/products/nyquist-keyboard) keyboard.
 
+- [Download]()
 
 |  ![](attachments/Keyboard%20Photos.jpg)   |     ![](attachments/Keyboard%20Photos%20Vertical.jpg)|
 | --- | --- |
+
+#### Os eruditio
